@@ -5,5 +5,5 @@ end
 
 get '/search/tweets.json' do
   content_type :json
-  SearchResults.search(params)
+  SearchResults.search(params).to_json
 end

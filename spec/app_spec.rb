@@ -21,6 +21,6 @@ describe App do
     expect(last_response.header['Content-Type']).to eq('application/json')
 
     body = JSON.parse last_response.body
-    expect(body["statuses"].size).to eq(21)
+    expect(body.size).to eq(21)
   end
 end

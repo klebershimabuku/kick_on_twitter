@@ -1,5 +1,6 @@
 require 'json'
 require 'net/http'
+require './kick_on_twitter/mention_parser'
 
 class SearchResults
 
@@ -8,6 +9,8 @@ class SearchResults
   def self.search(params)
     uri = URI(ENDPOINT)
     uri.query = URI.encode_www_form(params)
-    Net::HTTP.get(uri)
+    tweets = Net::HTTP.get(uri)
+
+    MentionParser.new(tweets: tweets, mention: params[:q]).parse
   end
 end
