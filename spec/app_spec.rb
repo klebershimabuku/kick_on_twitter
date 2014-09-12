@@ -19,5 +19,8 @@ describe App do
 
     get '/search/tweets.json?q=@locaweb'
     expect(last_response.header['Content-Type']).to eq('application/json')
+
+    body = JSON.parse last_response.body
+    expect(body["statuses"].size).to eq(11)
   end
 end

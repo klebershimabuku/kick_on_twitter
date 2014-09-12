@@ -8,6 +8,6 @@ class SearchResults
   def self.search(params)
     uri = URI(ENDPOINT)
     uri.query = URI.encode_www_form(params)
-    Net::HTTP.get_response(uri)
+    Net::HTTP.get(uri)
   end
 end
