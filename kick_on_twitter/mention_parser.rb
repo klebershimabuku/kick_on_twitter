@@ -19,6 +19,7 @@ class MentionParser
     mentioned_tweets
   end
 
+  protected
   def user_mentions(tweet)
     tweet["entities"]["user_mentions"]
   end
