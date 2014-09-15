@@ -1,0 +1,208 @@
+[
+{  
+	"coordinates":null,
+		"favorited":true,
+		"truncated":false,
+		"created_at":"Mon Sep 24 03:35:21 +0000 2012",
+		"id_str":"696825",
+		"entities":{  
+			"urls":[  
+
+				],
+			"hashtags":[  
+
+				],
+			"user_mentions":[  
+			{  
+				"screen_name":"gerardo_kihn",
+				"name":"Gerardo Kihn",
+				"id":198461,
+				"id_str":"198461",
+				"indices":[  
+					1,
+				14
+					]
+			}
+			]
+		},
+		"in_reply_to_user_id_str":"198461",
+		"contributors":null,
+		"text":"@gerardo_kihn Use the auxiliary AGP application, then you can synthesize the online port!",
+		"metadata":{  
+			"iso_language_code":"pt",
+			"result_type":"recent"
+		},
+		"retweet_count":0,
+		"in_reply_to_status_id_str":"213277",
+		"id":696825,
+		"geo":null,
+		"retweeted":true,
+		"in_reply_to_user_id":198461,
+		"place":null,
+		"user":{  
+			"profile_sidebar_fill_color":"DDEEF6",
+			"profile_sidebar_border_color":"C0DEED",
+			"profile_background_tile":false,
+			"name":"Dion Roob",
+			"profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+			"created_at":"Mon Apr 26 06:01:55 +0000 2010",
+			"location":"LA, CA",
+			"follow_request_sent":null,
+			"profile_link_color":"0084B4",
+			"is_translator":false,
+			"id_str":"305099",
+			"entities":{  
+				"url":{  
+					"urls":[  
+					{  
+						"expanded_url":null,
+						"url":"",
+						"indices":[  
+							0,
+						0
+							]
+					}
+					]
+				},
+				"description":{  
+					"urls":[  
+
+						]
+				}
+			},
+			"default_profile":true,
+			"contributors_enabled":false,
+			"favourites_count":63,
+			"url":null,
+			"profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+			"utc_offset":-28800,
+			"id":305099,
+			"profile_use_background_image":true,
+			"listed_count":2,
+			"profile_text_color":"333333",
+			"lang":"en",
+			"followers_count":391,
+			"protected":false,
+			"notifications":null,
+			"profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_color":"C0DEED",
+			"verified":false,
+			"geo_enabled":true,
+			"time_zone":"Pacific Time (US & Canada)",
+			"description":"Born 330 Live 310",
+			"default_profile_image":false,
+			"profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+			"statuses_count":579,
+			"friends_count":391,
+			"following":null,
+			"show_all_inline_media":false,
+			"screen_name":"dion_roob"
+		},
+		"in_reply_to_screen_name":"gerardo_kihn",
+		"source":"web",
+		"in_reply_to_status_id":213277
+},
+{  
+	"coordinates":null,
+	"favorited":true,
+	"truncated":false,
+	"created_at":"Mon Sep 24 03:35:21 +0000 2012",
+	"id_str":"574456",
+	"entities":{  
+		"urls":[  
+
+			],
+		"hashtags":[  
+
+			],
+		"user_mentions":[  
+		{  
+			"screen_name":"reichert_hallie",
+			"name":"Reichert Hallie",
+			"id":256380,
+			"id_str":"256380",
+			"indices":[  
+				1,
+			17
+				]
+		}
+		]
+	},
+	"in_reply_to_user_id_str":"256380",
+	"contributors":null,
+	"text":"@reichert_hallie You can't calculate the interface without programming the ope",
+	"metadata":{  
+		"iso_language_code":"pt",
+		"result_type":"recent"
+	},
+	"retweet_count":3,
+	"in_reply_to_status_id_str":"988587",
+	"id":574456,
+	"geo":null,
+	"retweeted":true,
+	"in_reply_to_user_id":256380,
+	"place":null,
+	"user":{  
+		"profile_sidebar_fill_color":"DDEEF6",
+		"profile_sidebar_border_color":"C0DEED",
+		"profile_background_tile":false,
+		"name":"Giles Jacobi Dr",
+		"profile_image_url":"http://a0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+		"created_at":"Mon Apr 26 06:01:55 +0000 2010",
+		"location":"LA, CA",
+		"follow_request_sent":null,
+		"profile_link_color":"0084B4",
+		"is_translator":false,
+		"id_str":"17291",
+		"entities":{  
+			"url":{  
+				"urls":[  
+				{  
+					"expanded_url":null,
+					"url":"",
+					"indices":[  
+						0,
+					0
+						]
+				}
+				]
+			},
+			"description":{  
+				"urls":[  
+
+					]
+			}
+		},
+		"default_profile":true,
+		"contributors_enabled":false,
+		"favourites_count":229,
+		"url":null,
+		"profile_image_url_https":"https://si0.twimg.com/profile_images/2359746665/1v6zfgqo8g0d3mk7ii5s_normal.jpeg",
+		"utc_offset":-28800,
+		"id":17291,
+		"profile_use_background_image":true,
+		"listed_count":2,
+		"profile_text_color":"333333",
+		"lang":"en",
+		"followers_count":982,
+		"protected":false,
+		"notifications":null,
+		"profile_background_image_url_https":"https://si0.twimg.com/images/themes/theme1/bg.png",
+		"profile_background_color":"C0DEED",
+		"verified":false,
+		"geo_enabled":true,
+		"time_zone":"Pacific Time (US & Canada)",
+		"description":"Born 330 Live 310",
+		"default_profile_image":false,
+		"profile_background_image_url":"http://a0.twimg.com/images/themes/theme1/bg.png",
+		"statuses_count":579,
+		"friends_count":982,
+		"following":null,
+		"show_all_inline_media":false,
+		"screen_name":"giles_jacobi_dr"
+	},
+	"in_reply_to_screen_name":"reichert_hallie",
+	"source":"web",
+	"in_reply_to_status_id":988587
+}
+]

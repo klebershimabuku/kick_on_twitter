@@ -1,4 +1,5 @@
 require 'sinatra'
+require './kick_on_twitter/search_results'
 
 class App < Sinatra::Base
 end

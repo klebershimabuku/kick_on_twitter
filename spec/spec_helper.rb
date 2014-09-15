@@ -5,5 +5,6 @@ require './kick_on_twitter/search_results'
 require './app'
 require 'rack/test'
 require 'rspec'
+require './kick_on_twitter/tweet_formatter'
 
 ENV['RACK_ENV'] = 'test'
